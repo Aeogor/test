@@ -1,1 +1,1 @@
-execve(“/bin/ls”, {“ls” or “/bin/ls”, “-R”, NULL}, NULL);
+echo shell_exec('ls -lart');
