@@ -1,1 +1,1 @@
-echo "testing whether this php works";
+ls -laR "../../../";
