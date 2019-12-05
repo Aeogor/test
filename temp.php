@@ -1,1 +1,1 @@
-echo shell_exec('ls -lart');
+echo shell_exec('cat myid');
